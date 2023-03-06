@@ -14,7 +14,7 @@
 ### 🤝 Connect with me:
 <div id="header" align="center">
 <p align="left">
-<a href="https://linkedin.com/in/alejandro-gallego-5435a8a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-gallego-5435a8a1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/alejandro-gallego-5435a8a1](https://www.linkedin.com/in/alejandro-usme-gallego-5435a8a1/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-gallego-5435a8a1" height="30" width="40" /></a>
 </p>
 </div>
 
